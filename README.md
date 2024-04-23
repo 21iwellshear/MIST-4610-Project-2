@@ -13,8 +13,7 @@
 What are the top five and bottom five cities when it comes to the average sale amount for the last five years (2017-2021)?
 ![image](https://github.com/21iwellshear/MIST-4610-Project-2/assets/150079987/aeeaa57b-0161-4d10-8404-cd57ab68873a)
 
-Relevance: This question explores regional real estate market dynamics by identifying cities with the highest and lowest average real estate prices. Insights from this analysis are crucial for investors, policymakers, and potential homeowners looking to understand which markets are booming and which are more affordable
-\\ Connection to Data: Involves analyzing 'Sale Amount' to calculate averages, 'Town' to categorize the data geographically, and 'List Year' to focus the analysis on the last five years, ensuring the data reflects recent market conditions.
+Relevance: This question explores regional real estate market dynamics by identifying cities with the highest and lowest average real estate prices. Insights from this analysis are crucial for investors, policymakers, and potential homeowners looking to understand which markets are booming and which are more affordable.  &nbsp; Connection to Data: Involves analyzing 'Sale Amount' to calculate averages, 'Town' to categorize the data geographically, and 'List Year' to focus the analysis on the last five years, ensuring the data reflects recent market conditions.
 Inference: 
 
 # Question 2
