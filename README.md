@@ -36,9 +36,6 @@ Relevance: This question examines the relationship between market-listed sale pr
 \
 \
 Connection to Data: Requires the use of 'Property Type' to segment the analysis by the type of property, 'Assessed Value' and 'Sale Amount' to compare market values against assessed values, and 'Town' combined with 'List Year' to ensure the focus remains on the specific cities and time period of interest.
-/
-/
+\
+\
 Inference: Based on these data visualizations it is clear that commercial real estate offers great investment opportunities in specific towns including New Canaan, Stafford, and Chaplin. This can be seen by the huge difference between the government valuations and the price in which the property actually sold for. On the other hand it does not seem as though residential real estate has provided a great investment opportunity in any city in the last five years. Another investment opportunity which sticks out is condos in the town, Chaplin. In the past five years they have sold for nearly 30K less than their government assessed price which displays great value in a purchase. 
-\
-\
-Inference:
