@@ -19,7 +19,7 @@ Relevance: This question explores regional real estate market dynamics by identi
 Connection to Data: Involves analyzing 'Sale Amount' to calculate averages, 'Town' to categorize the data geographically, and 'List Year' to focus the analysis on the last five years, ensuring the data reflects recent market conditions.
 \
 \
-Inference: 
+Inference: This visualization shows that there is great disparity between the most expensive and least expensive places to live in Connecticut. Willington, a clear outlier, has an average selling price 12 million dollars higher than any other city. This is likely due to its prestige as a city coupled with a low supply for homes. With minimal sales of all high value homes in this area, their average stands extremely high when compared to expensive towns with higher populations. The disparity between the top 5 and bottom 5 cities featured on this visualization is a show of the socioeconomic status of Connecticut. Excluding Willington, the other four towns in the top are located in heavily populated areas near the coast. This graph makes it clear that Connecticut needs to direct its focus on inclusive growth of communities away from the coast in order to reduce the disparity highlighted by this visualization.
 
 # Question 2
 How have real estate sale prices and assessed values differed across various property types within the top 5 and bottom 5 cities for the last 5 years (2017-2021)? 
@@ -27,6 +27,9 @@ Relevance: This question examines the relationship between market-listed sale pr
 \
 \
 Connection to Data: Requires the use of 'Property Type' to segment the analysis by the type of property, 'Assessed Value' and 'Sale Amount' to compare market values against assessed values, and 'Town' combined with 'List Year' to ensure the focus remains on the specific cities and time period of interest.
+/
+/
+Inference: Based on these data visualizations it is clear that commercial real estate offers great investment opportunities in specific towns including New Canaan, Stafford, and Chaplin. This can be seen by the huge difference between the government valuations and the price in which the property actually sold for. On the other hand it does not seem as though residential real estate has provided a great investment opportunity in any city in the last five years. Another investment opportunity which sticks out is condos in the town, Chaplin. In the past five years they have sold for nearly 30K less than their government assessed price which displays great value in a purchase. 
 \
 \
 Inference:
